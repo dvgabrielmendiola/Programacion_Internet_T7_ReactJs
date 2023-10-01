@@ -1,0 +1,9 @@
+.container{
+    left: 12px;
+    background: #041A33;
+    font-size: 23px;
+    width: 200%;
+    max-width: 320px;
+    border: 10px solid #5C5C5C;
+    padding: 3px;
+}
